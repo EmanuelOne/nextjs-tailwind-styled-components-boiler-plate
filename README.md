@@ -1,4 +1,4 @@
-# nextjs--tailwind-style-components-starter
+# nextjs--tailwind-style-components
 
 * Server side rendered Styled Components with NextJS
 
